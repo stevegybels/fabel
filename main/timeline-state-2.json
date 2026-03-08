@@ -47,7 +47,7 @@
       "stackRootId": "card_eebdhcnj",
       "stackIndex": 0,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.5656213704994193
+      "stackYRatio": 0.7078488372093024
     },
     {
       "wrapperId": "card_bmtw0xxl",
@@ -96,7 +96,7 @@
       "stackRootId": "card_eebdhcnj",
       "stackIndex": 1,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.06155632984901278
+      "stackYRatio": 0.07703488372093023
     },
     {
       "wrapperId": "card_0iw1l36e",
@@ -104,9 +104,9 @@
       "html": "New card",
       "subitemsHtml": "",
       "x": 393,
-      "y": 70,
-      "width": 591,
-      "manualHeight": 472,
+      "y": 60,
+      "width": 674,
+      "manualHeight": 391,
       "category": "Other",
       "contentDirection": "vertical",
       "textColor": "#9a651f",
@@ -146,7 +146,7 @@
       "stackRootId": "card_0iw1l36e",
       "stackIndex": 0,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.08130081300813008
+      "stackYRatio": 0.0872093023255814
     },
     {
       "wrapperId": "card_23kh43bi",
@@ -154,8 +154,8 @@
       "html": "New card",
       "subitemsHtml": "",
       "x": 393,
-      "y": 721,
-      "width": 591,
+      "y": 548,
+      "width": 674,
       "manualHeight": 140,
       "category": "Other",
       "contentDirection": "vertical",
@@ -194,13 +194,13 @@
       "stackRootId": "card_0iw1l36e",
       "stackIndex": 1,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.8373983739837398
+      "stackYRatio": 0.7965116279069767
     }
   ],
   "rows": [
     {
       "row": 0,
-      "rowHeight": 861,
+      "rowHeight": 688,
       "trackStyleIndex": 0,
       "rowId": "row_xi0xn9sn",
       "trackLabelScale": 1,
@@ -220,7 +220,7 @@
       "squeezeBack": false
     },
     {
-      "x": 1010,
+      "x": 1093,
       "squeezeBack": false
     }
   ],
