@@ -7,7 +7,7 @@
       "html": "New card",
       "subitemsHtml": "",
       "x": 24,
-      "y": 263,
+      "y": 272,
       "width": 140,
       "manualHeight": 140,
       "category": "Dynatrace",
@@ -63,7 +63,7 @@
       "stackRootId": "card_f9gcmvta",
       "stackIndex": 1,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.3990895295902883
+      "stackYRatio": 0.41274658573596357
     },
     {
       "wrapperId": "card_1bhoy6vz",
@@ -201,7 +201,7 @@
       "x": 356,
       "y": 230,
       "width": 208,
-      "manualHeight": 208,
+      "manualHeight": 246,
       "category": "Label",
       "contentDirection": "vertical",
       "textColor": "#9a651f",
@@ -219,12 +219,12 @@
         "left": 6
       },
       "connectorCenterPulls": {
-        "top": 0.5,
-        "right": 0.5,
+        "top": 0.3,
+        "right": 0.3,
         "bottom": 0,
-        "left": 0.5
+        "left": 0.3
       },
-      "connectorSize": 10,
+      "connectorSize": 9,
       "cardShadowStrength": 1,
       "cardIconType": "icon",
       "cardIconClass": "fa-solid fa-server",
@@ -826,15 +826,6 @@
       "toSlot": 0
     },
     {
-      "id": "conn_nmkd0a8i",
-      "fromId": "card_3ede1wcx",
-      "fromSide": "right",
-      "fromSlot": 4,
-      "toId": "card_99t1eucp",
-      "toSide": "bottom",
-      "toSlot": 0
-    },
-    {
       "id": "conn_9wl080ek",
       "fromId": "card_3ede1wcx",
       "fromSide": "right",
@@ -869,9 +860,18 @@
       "toId": "card_3ede1wcx",
       "toSide": "left",
       "toSlot": 5
+    },
+    {
+      "id": "conn_hjsu6j3u",
+      "fromId": "card_3ede1wcx",
+      "fromSide": "right",
+      "fromSlot": 4,
+      "toId": "card_99t1eucp",
+      "toSide": "top",
+      "toSlot": 0
     }
   ],
-  "straightConnectors": false,
+  "straightConnectors": true,
   "stackBordersVisible": false,
   "dividerGapExtra": 50,
   "paperGridSize": "a4",
@@ -880,20 +880,7 @@
     "Action",
     "Platform",
     "Other",
-    "L",
-    "Le",
-    "La",
-    "Lab",
-    "Labe",
-    "Label",
-    "D",
-    "Dy",
-    "Dyn",
-    "Dyna",
-    "Dynat",
-    "Dynatr",
-    "Dynatra",
-    "Dynatrac",
-    "Dynatrace"
+    "Dynatrace",
+    "Label"
   ]
 }
