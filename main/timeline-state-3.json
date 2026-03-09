@@ -1377,50 +1377,64 @@
       "id": "conn_4x34uftu",
       "fromId": "card_k4p2uupk",
       "fromSide": "right",
+      "fromSlot": 0,
       "toId": "card_8lsrixtr",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "toSlot": 0
     },
     {
       "id": "conn_gjuvbfhm",
       "fromId": "card_gz6oyist",
       "fromSide": "right",
+      "fromSlot": 0,
       "toId": "card_8sv77iqb",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "toSlot": 0
     },
     {
       "id": "conn_0koehix5",
       "fromId": "card_cw1ik7nk",
       "fromSide": "right",
+      "fromSlot": 0,
       "toId": "card_mmcvaerv",
-      "toSide": "bottom"
+      "toSide": "bottom",
+      "toSlot": 0
     },
     {
       "id": "conn_jtyeequ9",
       "fromId": "card_j39e0nri",
       "fromSide": "right",
+      "fromSlot": 0,
       "toId": "card_h41twzvt",
-      "toSide": "top"
+      "toSide": "top",
+      "toSlot": 0
     },
     {
       "id": "conn_eyl1sml6",
       "fromId": "card_laxymmza",
       "fromSide": "left",
+      "fromSlot": 0,
       "toId": "card_9q7doag5",
-      "toSide": "right"
+      "toSide": "right",
+      "toSlot": 0
     },
     {
       "id": "conn_997g4a3v",
       "fromId": "card_zy2x9r1f",
       "fromSide": "left",
+      "fromSlot": 0,
       "toId": "card_2uw1gwg2",
-      "toSide": "right"
+      "toSide": "right",
+      "toSlot": 0
     },
     {
       "id": "conn_3v31umu5",
       "fromId": "card_7den3keu",
       "fromSide": "left",
+      "fromSlot": 0,
       "toId": "card_vz4w81ha",
-      "toSide": "right"
+      "toSide": "right",
+      "toSlot": 0
     }
   ],
   "straightConnectors": true,
