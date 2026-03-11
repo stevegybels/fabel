@@ -6,8 +6,8 @@
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 24,
-      "y": 72,
+      "x": 393,
+      "y": 81,
       "width": 140,
       "manualHeight": 140,
       "category": "Dynatrace",
@@ -33,6 +33,7 @@
         "bottom": 0,
         "left": 0
       },
+      "connectorDecorations": {},
       "connectorSize": 10,
       "cardShadowStrength": 0.5,
       "cardIconType": "icon",
@@ -65,81 +66,15 @@
       "stackRootId": "card_f9gcmvta",
       "stackIndex": 0,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.10925644916540213
-    },
-    {
-      "wrapperId": "card_hduzlr7z",
-      "text": "New card",
-      "html": "New card",
-      "subitemsHtml": "",
-      "x": 24,
-      "y": 299,
-      "width": 140,
-      "manualHeight": 140,
-      "category": "Dynatrace",
-      "contentDirection": "vertical",
-      "textColor": "#2d3095",
-      "bgColor": "#f7f0ff",
-      "cardBorderColor": "#2d3095",
-      "connectorColor": "#4b5563",
-      "cardBorderWidth": 2,
-      "cardInnerGap": 0,
-      "cardPadding": 16,
-      "cardCornerRadius": 10,
-      "cardShape": "rounded",
-      "connectorCounts": {
-        "top": 1,
-        "right": 1,
-        "bottom": 1,
-        "left": 1
-      },
-      "connectorCenterPulls": {
-        "top": 0,
-        "right": 0,
-        "bottom": 0,
-        "left": 0
-      },
-      "connectorSize": 10,
-      "cardShadowStrength": 0.5,
-      "cardIconType": "icon",
-      "cardIconClass": "fa-solid fa-database",
-      "cardIconSize": 40,
-      "cardIconGap": 6,
-      "cardIconMediaKey": "",
-      "cardIconPosition": "top",
-      "cardTextPosition": "center",
-      "cardFillPosition": "center",
-      "cardIconFillBackground": false,
-      "cardType": "standard",
-      "labelBgColor": "transparent",
-      "labelTextColor": "#2d3095",
-      "tagBgColor": "#fff8e8",
-      "tagBorderColor": "#f0d38a",
-      "labelScale": 1,
-      "contentScale": 1,
-      "titleGap": 8,
-      "labelFont": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
-      "contentFont": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
-      "labelWeight": 700,
-      "contentWeight": 500,
-      "labelLineHeight": 1.2,
-      "contentLineHeight": 1.45,
-      "showText": false,
-      "showConnectorDots": false,
-      "row": 0,
-      "cardCount": 1,
-      "stackRootId": "card_f9gcmvta",
-      "stackIndex": 1,
-      "stackVerticalStretch": true,
-      "stackYRatio": 0.4537177541729894
+      "stackYRatio": 0.12125748502994012
     },
     {
       "wrapperId": "card_1bhoy6vz",
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 24,
-      "y": 519,
+      "x": 393,
+      "y": 528,
       "width": 140,
       "manualHeight": 140,
       "category": "Dynatrace",
@@ -165,6 +100,7 @@
         "bottom": 0,
         "left": 0
       },
+      "connectorDecorations": {},
       "connectorSize": 10,
       "cardShadowStrength": 0.5,
       "cardIconType": "icon",
@@ -197,17 +133,84 @@
       "stackRootId": "card_f9gcmvta",
       "stackIndex": 2,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.787556904400607
+      "stackYRatio": 0.7904191616766467
+    },
+    {
+      "wrapperId": "card_hduzlr7z",
+      "text": "New card",
+      "html": "New card",
+      "subitemsHtml": "",
+      "x": 394,
+      "y": 298,
+      "width": 140,
+      "manualHeight": 140,
+      "category": "Dynatrace",
+      "contentDirection": "vertical",
+      "textColor": "#2d3095",
+      "bgColor": "#f7f0ff",
+      "cardBorderColor": "#2d3095",
+      "connectorColor": "#4b5563",
+      "cardBorderWidth": 2,
+      "cardInnerGap": 0,
+      "cardPadding": 16,
+      "cardCornerRadius": 10,
+      "cardShape": "rounded",
+      "connectorCounts": {
+        "top": 1,
+        "right": 1,
+        "bottom": 1,
+        "left": 1
+      },
+      "connectorCenterPulls": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 0
+      },
+      "connectorDecorations": {},
+      "connectorSize": 10,
+      "cardShadowStrength": 0.5,
+      "cardIconType": "icon",
+      "cardIconClass": "fa-solid fa-database",
+      "cardIconSize": 40,
+      "cardIconGap": 6,
+      "cardIconMediaKey": "",
+      "cardIconPosition": "top",
+      "cardTextPosition": "center",
+      "cardFillPosition": "center",
+      "cardIconFillBackground": false,
+      "cardType": "standard",
+      "labelBgColor": "transparent",
+      "labelTextColor": "#2d3095",
+      "tagBgColor": "#fff8e8",
+      "tagBorderColor": "#f0d38a",
+      "labelScale": 1,
+      "contentScale": 1,
+      "titleGap": 8,
+      "labelFont": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+      "contentFont": "system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+      "labelWeight": 700,
+      "contentWeight": 500,
+      "labelLineHeight": 1.2,
+      "contentLineHeight": 1.45,
+      "showText": false,
+      "showConnectorDots": false,
+      "row": 0,
+      "cardCount": 1,
+      "stackRootId": "card_f9gcmvta",
+      "stackIndex": 1,
+      "stackVerticalStretch": true,
+      "stackYRatio": 0.44610778443113774
     },
     {
       "wrapperId": "card_3ede1wcx",
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 357,
+      "x": 713,
       "y": 245,
       "width": 208,
-      "manualHeight": 246,
+      "manualHeight": 228,
       "category": "Label",
       "contentDirection": "vertical",
       "textColor": "#9a651f",
@@ -231,6 +234,7 @@
         "bottom": 0,
         "left": 0.3
       },
+      "connectorDecorations": {},
       "connectorSize": 9,
       "cardShadowStrength": 1,
       "cardIconType": "icon",
@@ -262,14 +266,14 @@
       "stackRootId": "card_3ede1wcx",
       "stackIndex": 0,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.37177541729893776
+      "stackYRatio": 0.36676646706586824
     },
     {
       "wrapperId": "card_n1eo71gd",
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 764,
+      "x": 1116,
       "y": 517,
       "width": 140,
       "manualHeight": 140,
@@ -295,6 +299,12 @@
         "right": 0,
         "bottom": 0,
         "left": 0
+      },
+      "connectorDecorations": {
+        "left:0": {
+          "type": "dotline",
+          "distance": 0.15
+        }
       },
       "connectorSize": 10,
       "cardShadowStrength": 0.5,
@@ -328,14 +338,14 @@
       "stackRootId": "card_co801ier",
       "stackIndex": 3,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.7845220030349014
+      "stackYRatio": 0.7739520958083832
     },
     {
       "wrapperId": "card_co801ier",
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 770,
+      "x": 1122,
       "y": 80,
       "width": 140,
       "manualHeight": 140,
@@ -361,6 +371,12 @@
         "right": 0,
         "bottom": 0,
         "left": 0
+      },
+      "connectorDecorations": {
+        "left:0": {
+          "type": "dotline",
+          "distance": 0.15
+        }
       },
       "connectorSize": 10,
       "cardShadowStrength": 0.5,
@@ -394,14 +410,14 @@
       "stackRootId": "card_co801ier",
       "stackIndex": 0,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.12139605462822459
+      "stackYRatio": 0.11976047904191617
     },
     {
       "wrapperId": "card_99t1eucp",
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 935,
+      "x": 1287,
       "y": 517,
       "width": 140,
       "manualHeight": 140,
@@ -427,6 +443,12 @@
         "right": 0,
         "bottom": 0,
         "left": 0
+      },
+      "connectorDecorations": {
+        "top:0": {
+          "type": "arrow",
+          "distance": 0.15
+        }
       },
       "connectorSize": 10,
       "cardShadowStrength": 0.5,
@@ -460,14 +482,14 @@
       "stackRootId": "card_co801ier",
       "stackIndex": 4,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.7845220030349014
+      "stackYRatio": 0.7739520958083832
     },
     {
       "wrapperId": "card_xjo0mjyb",
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 942,
+      "x": 1294,
       "y": 79,
       "width": 140,
       "manualHeight": 140,
@@ -493,6 +515,12 @@
         "right": 0,
         "bottom": 0,
         "left": 0
+      },
+      "connectorDecorations": {
+        "bottom:0": {
+          "type": "arrow",
+          "distance": 0.15
+        }
       },
       "connectorSize": 10,
       "cardShadowStrength": 0.5,
@@ -526,14 +554,14 @@
       "stackRootId": "card_co801ier",
       "stackIndex": 1,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.11987860394537178
+      "stackYRatio": 0.11826347305389222
     },
     {
       "wrapperId": "card_h5uw6ixy",
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 1111,
+      "x": 1463,
       "y": 517,
       "width": 140,
       "manualHeight": 140,
@@ -560,6 +588,7 @@
         "bottom": 0,
         "left": 0
       },
+      "connectorDecorations": {},
       "connectorSize": 10,
       "cardShadowStrength": 0.5,
       "cardIconType": "icon",
@@ -592,14 +621,14 @@
       "stackRootId": "card_co801ier",
       "stackIndex": 5,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.7845220030349014
+      "stackYRatio": 0.7739520958083832
     },
     {
       "wrapperId": "card_t4nx9zo0",
       "text": "New card",
       "html": "New card",
       "subitemsHtml": "",
-      "x": 1113,
+      "x": 1465,
       "y": 79,
       "width": 140,
       "manualHeight": 140,
@@ -625,6 +654,16 @@
         "right": 0,
         "bottom": 0,
         "left": 0
+      },
+      "connectorDecorations": {
+        "bottom:0": {
+          "type": "arrow",
+          "distance": 0.15
+        },
+        "right:0": {
+          "type": "dotline",
+          "distance": 0.2
+        }
       },
       "connectorSize": 10,
       "cardShadowStrength": 0.5,
@@ -658,13 +697,13 @@
       "stackRootId": "card_co801ier",
       "stackIndex": 2,
       "stackVerticalStretch": true,
-      "stackYRatio": 0.11987860394537178
+      "stackYRatio": 0.11826347305389222
     }
   ],
   "rows": [
     {
       "row": 0,
-      "rowHeight": 659,
+      "rowHeight": 668,
       "trackStyleIndex": 0,
       "rowId": "row_opino186",
       "trackLabelScale": 1,
@@ -680,11 +719,15 @@
   ],
   "markers": [
     {
-      "x": 260,
+      "x": 632,
       "squeezeBack": false
     },
     {
-      "x": 650,
+      "x": 1002,
+      "squeezeBack": false
+    },
+    {
+      "x": 295,
       "squeezeBack": false
     }
   ],
@@ -834,7 +877,8 @@
       "fromSlot": 0,
       "toId": "card_3ede1wcx",
       "toSide": "left",
-      "toSlot": 0
+      "toSlot": 0,
+      "color": "#98a4b3"
     },
     {
       "id": "conn_7kq89m1d",
@@ -843,7 +887,8 @@
       "fromSlot": 0,
       "toId": "card_3ede1wcx",
       "toSide": "left",
-      "toSlot": 3
+      "toSlot": 3,
+      "color": "#98a4b3"
     },
     {
       "id": "conn_bq1hbyz5",
@@ -854,7 +899,7 @@
       "toSide": "right",
       "toSlot": 0,
       "color": "#2b6bc5",
-      "thickness": 4
+      "thickness": 3
     },
     {
       "id": "conn_cl7zppu3",
@@ -865,7 +910,10 @@
       "toSide": "bottom",
       "toSlot": 0,
       "color": "#2b6bc5",
-      "thickness": 4
+      "thickness": 3,
+      "badgeEnabled": true,
+      "badgeValue": "1",
+      "badgePosition": 0.5
     },
     {
       "id": "conn_ki5z8l0j",
@@ -876,7 +924,7 @@
       "toSide": "right",
       "toSlot": 1,
       "color": "#2b6bc5",
-      "thickness": 4
+      "thickness": 3
     },
     {
       "id": "conn_864021wt",
@@ -887,7 +935,10 @@
       "toSide": "right",
       "toSlot": 2,
       "color": "#ff0000",
-      "thickness": 4
+      "thickness": 3,
+      "badgeEnabled": true,
+      "badgeValue": "2",
+      "badgePosition": 0.5
     },
     {
       "id": "conn_17wrrv44",
@@ -896,7 +947,8 @@
       "fromSlot": 6,
       "toId": "card_3ede1wcx",
       "toSide": "right",
-      "toSlot": 2
+      "toSlot": 2,
+      "thickness": 3
     },
     {
       "id": "conn_gu0j2y00",
@@ -905,7 +957,8 @@
       "fromSlot": 0,
       "toId": "card_3ede1wcx",
       "toSide": "right",
-      "toSlot": 6
+      "toSlot": 6,
+      "thickness": 3
     },
     {
       "id": "conn_k95494ek",
@@ -916,7 +969,7 @@
       "toSide": "right",
       "toSlot": 5,
       "color": "#ee00ff",
-      "thickness": 4
+      "thickness": 3
     },
     {
       "id": "conn_pa4bz12e",
@@ -925,7 +978,11 @@
       "fromSlot": 0,
       "toId": "card_3ede1wcx",
       "toSide": "right",
-      "toSlot": 3
+      "toSlot": 3,
+      "thickness": 3,
+      "badgeEnabled": true,
+      "badgeValue": "3",
+      "badgePosition": 0.5
     },
     {
       "id": "conn_dxyfkobq",
@@ -935,6 +992,7 @@
       "toId": "card_h5uw6ixy",
       "toSide": "top",
       "toSlot": 0,
+      "color": "#98a4b3",
       "thickness": 2
     },
     {
@@ -944,7 +1002,8 @@
       "fromSlot": 6,
       "toId": "card_1bhoy6vz",
       "toSide": "right",
-      "toSlot": 0
+      "toSlot": 0,
+      "color": "#98a4b3"
     },
     {
       "id": "conn_teetnwic",
@@ -953,7 +1012,8 @@
       "fromSlot": 0,
       "toId": "card_3ede1wcx",
       "toSide": "right",
-      "toSlot": 5
+      "toSlot": 5,
+      "thickness": 3
     }
   ],
   "straightConnectors": true,
